@@ -1,123 +1,117 @@
-<h1 align="center">Hi there 👋, I'm Jaweria Bibi Abdullah!</h1>  
-<h3 align="center">🚀 A passionate Full Stack Developer building scalable web applications with a focus on clean code and elegant UI/UX.</h3>  
+# 👋 Welcome to Jaweria Bibi's GitHub Profile!
+
+Hi, I'm **Jaweria Bibi Abdullah** 👩‍💻, a passionate **Software Engineer** and **Full Stack Developer** with expertise in **JavaScript**, **React.js**, **NestJS**, **TypeScript**, and **Python**. I specialize in building scalable, performant, and user-friendly web applications. I also have hands-on experience with **Cloud Services** (like Cloudinary), **CI/CD**, and **Agile Methodologies**. I love solving complex problems, collaborating with dynamic teams, and constantly improving my skills. 
+
+## 🚀 About Me
+
+- 🔭 I’m currently working on full-stack web development projects using **React**, **NestJS**, **TypeScript**, and **Node.js**.
+- 🌱 I’m currently learning **Generative AI**, **Machine Learning**, and exploring **Cloud Technologies** like **AWS** and **Azure**.
+- 💬 Ask me about anything related to **JavaScript**, **Web Development**, **Algorithms**, and **Cloud Computing**.
+- 📬 Reach out to me at [info@chakoos.co.uk](mailto:info@chakoos.co.uk).
 
 ---
 
-### 🔭 **What I’m Working On**  
-🌟 **Tech Stack:**  
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudinary-F27A1A?style=for-the-badge&logo=cloudinary&logoColor=white" />
-</p>  
+## 💻 Technologies & Tools I Work With
 
-💡 **Current Focus:**  
-- Improving user experiences with **Cloudinary** and efficient backend designs.  
-- Developing dynamic web applications using **Next.js** and **React.js**.  
+<details>
+  <summary><b>Click to expand and see my tech stack 🚀</b></summary>
 
----
+### Frontend Development:
+- **React.js**
+- **Next.js**
+- **TypeScript**
+- **CSS**
+- **HTML5**
+- **JavaScript**
+- **TailwindCSS**
 
-### 🌱 **What I’m Learning**  
-📘 **Expanding Knowledge In:**  
-<p align="left">
-  <img src="https://img.shields.io/badge/Generative%20AI-6C63FF?style=for-the-badge&logo=artstation&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-3498DB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Drizzle%20ORM-000000?style=for-the-badge&logo=notion&logoColor=white" />
-</p>  
+### Backend Development:
+- **Node.js**
+- **Express.js**
+- **NestJS**
+- **MySQL**
+- **PostgreSQL**
+- **MongoDB**
+- **RESTful APIs**
 
----
+### DevOps & Cloud:
+- **Docker**
+- **CI/CD**
+- **GitHub Actions**
+- **AWS**
+- **Cloudinary**
 
-### 👯 **Looking to Collaborate On**  
-🤝 Projects in:  
-- Full-stack web development.  
-- AI/ML-based tools and innovations.  
-- Open-source projects involving **JavaScript**, **TypeScript**, or **Python**.  
+### Tools:
+- **Git & GitHub**
+- **VS Code**
+- **Postman**
+- **Multer** for file handling
 
----
-
-### 💬 **Ask Me About**  
-📌 Full Stack Development | UI/UX Design | Agile Development  
-📌 Debugging | Testing Strategies | Project Leadership  
-
----
-
-### 📈 **Tech Stack**  
-#### **Frontend**  
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-</p>  
-
-#### **Backend**  
-<p align="left">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-</p>  
-
-#### **Languages**  
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
-</p>  
-
-#### **Tools**  
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/SweetAlert-FF5733?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI/CD-0049B7?style=flat-square&logo=githubactions&logoColor=white" />
-</p>  
+</details>
 
 ---
 
-### 🌟 **Key Projects**  
-1. **Internship Screening Platform**  
-   🔧 Built a full-stack platform for automating internship applications.  
-   🚀 **Technologies**: React.js, Nest.js, MySQL, TypeScript.  
-   🎨 Enhanced UI/UX design and documentation.  
+## 🏆 GitHub Stats & Achievements
 
-2. **Custom Calculator UI**  
-   ✨ Designed an interactive calculator with styled buttons and animations.  
-   🛠️ **Technologies**: HTML, CSS, JavaScript.  
-
-3. **AI/ML Learning Projects**  
-   🤖 Exploring predictive models and generative AI concepts using Python.  
+![Jaweria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaweriaBibi&show_icons=true&count_private=true&hide_title=true&hide=prs&hide_border=true&bg_color=0D1117&text_color=ffffff&icon_color=FF6347)
 
 ---
 
-### 🏆 **Certifications**  
-🎓 **Full Stack Web Development**  
-🎓 **VUSWH Certified Web Developer**  
-🎓 **Certified Computer Course (MS Office)**  
+## 🖼️ My Projects
+
+Here are some of my top projects that showcase my work and skills in full-stack development:
+
+- **[Internship Screening Platform](https://github.com/JaweriaBibi/Internship-Screening-Platform)** - A web app to streamline the internship recruitment process.
+- **[Product Showcase App](https://github.com/JaweriaBibi/Product-Showcase-App)** - A full-stack product showcase app with user authentication, live search, and product filtering.
+- **[E-Commerce Website](https://github.com/JaweriaBibi/E-Commerce-Website)** - A fully functional e-commerce website built using React, Node, and MongoDB.
 
 ---
 
-### 📬 **Connect With Me**  
-<p align="left">
-  <a href="mailto:jaweriabibiofficial@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>  
-  <a href="https://www.linkedin.com/in/jaweriabibi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
-  <a href="https://github.com/JaweriaBibi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>  
-  <a href="https://leetcode.com/u/Jaweria_Bibi_Abdullah/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>  
-</p>  
+## 🌐 Find Me On:
+
+- [LinkedIn](https://www.linkedin.com/in/jaweriabibi/)
+- [LeetCode](https://leetcode.com/u/Jaweria_Bibi_Abdullah/)
+- [Twitter](https://twitter.com/Jaweria_Bibi)
 
 ---
 
-### ⚡ **GitHub Stats**  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaweriaBibi&show_icons=true&theme=radical" alt="Jaweria's GitHub Stats" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaweriaBibi&layout=compact&theme=radical" alt="Top Languages" />
-</p>  
+## 🏅 Top Languages
+
+#### My Most Proficient Languages (with a 3D touch for that extra flair!)
+
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <div style="animation: rotate 2s infinite linear; width: 80px; height: 80px; background-color: #f7b731; display: flex; justify-content: center; align-items: center; border-radius: 10px;">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" width="60" />
+  </div>
+  <div style="animation: rotate 3s infinite linear; width: 80px; height: 80px; background-color: #61dafb; display: flex; justify-content: center; align-items: center; border-radius: 10px;">
+    <img src="https://img.shields.io/badge/React-61dafb?logo=react&logoColor=white&style=for-the-badge" alt="React" width="60" />
+  </div>
+  <div style="animation: rotate 4s infinite linear; width: 80px; height: 80px; background-color: #007acc; display: flex; justify-content: center; align-items: center; border-radius: 10px;">
+    <img src="https://img.shields.io/badge/TypeScript-007acc?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" width="60" />
+  </div>
+  <div style="animation: rotate 5s infinite linear; width: 80px; height: 80px; background-color: #ff8c00; display: flex; justify-content: center; align-items: center; border-radius: 10px;">
+    <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" width="60" />
+  </div>
+  <div style="animation: rotate 6s infinite linear; width: 80px; height: 80px; background-color: #00758f; display: flex; justify-content: center; align-items: center; border-radius: 10px;">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" width="60" />
+  </div>
+</div>
 
 ---
 
-💡 *Let’s create something amazing together!* 🚀  
+## 🛠️ Contributing to Open Source
+
+I'm always looking for opportunities to contribute to open-source projects. If you have a project where you think I can add value, feel free to open an issue or submit a pull request.
+
+---
+
+## 🎯 How I Optimize for SEO
+
+- Using relevant **keywords** like **Full Stack Developer**, **JavaScript**, **React**, **Node.js**, **Machine Learning**, and **Cloud Computing**.
+- High-quality **project descriptions** with clear and concise titles.
+- Actively **maintaining my repositories** and making sure they're up-to-date with current technologies.
+- Consistently engaging in the **GitHub community** by starring repositories, participating in discussions, and contributing to issues.
+
+--- 
+
+**Feel free to browse through my repositories, explore my projects, and connect with me!** 👩‍💻✨
