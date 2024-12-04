@@ -7,7 +7,7 @@ Hi, I'm **Jaweria Bibi Abdullah** 👩‍💻, a passionate **Software Engineer*
 - 🔭 I’m currently working on full-stack web development projects using **React**, **NestJS**, **TypeScript**, and **Node.js**.
 - 🌱 I’m currently learning **Generative AI**, **Machine Learning**, and exploring **Cloud Technologies** like **AWS** and **Azure**.
 - 💬 Ask me about anything related to **JavaScript**, **Web Development**, **Algorithms**, and **Cloud Computing**.
-- 📬 Reach out to me at [info@chakoos.co.uk](mailto:info@chakoos.co.uk).
+- 📬 Reach out to me at [jaweriabibiofficial@gmail.com](mailto:jaweriabibiofficial@gmail.com).
 
 ---
 
